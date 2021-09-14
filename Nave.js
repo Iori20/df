@@ -7,4 +7,3 @@ class Nave
  Atirar;
  Adicionar;
  Destruir;
- 
